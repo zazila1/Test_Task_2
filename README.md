@@ -13,7 +13,8 @@
  
 ## Комментарии по реализации:
 
-<a target="_blank" href="https://radikal.ru"><img src="https://a.radikal.ru/a34/1910/b2/14dd3654a194.gif" /></a>
+<img src="https://i.gifer.com/3NxyZ.gif" />
+
 
 Потратил около ~20ч+, т.к. некоторые аспекты делал впервые. Так же пришлось покопаться со связями.
  
