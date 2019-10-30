@@ -13,8 +13,8 @@
  
 ## Комментарии по реализации:
 
-<a href="https://gifyu.com/image/k1qb"><img src="https://s3.gifyu.com/images/2019-10-30_03-17-47.md.gif" alt="2019-10-30_03-17-47.gif" border="0" /></a>
-<a href="https://gifyu.com/image/k1qb"><img src="https://s3.gifyu.com/images/2019-10-30_03-17-47.th.gif" alt="2019-10-30_03-17-47.gif" border="0" /></a>
+<a href="https://imgflip.com/gif/3eq6ub"><img src="https://i.imgflip.com/3eq6ub.gif" title="made at imgflip.com"/></a>
+
 Потратил около ~20ч+, т.к. некоторые аспекты делал впервые. Так же пришлось покопаться со связями.
  
 В GameManager можно изменять размер первоначального пула объектов, если пул кончается, то создаются дополнительные объекты.
