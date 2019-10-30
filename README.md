@@ -13,7 +13,7 @@
  
 ## Комментарии по реализации:
 
-<a href="https://imgflip.com/gif/3eq6ub"><img src="https://i.imgflip.com/3eq6ub.gif" title="made at imgflip.com"/></a>
+<a target="_blank" href="https://radikal.ru"><img src="https://a.radikal.ru/a34/1910/b2/14dd3654a194.gif" /></a>
 
 Потратил около ~20ч+, т.к. некоторые аспекты делал впервые. Так же пришлось покопаться со связями.
  
